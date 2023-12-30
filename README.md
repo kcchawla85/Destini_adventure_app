@@ -51,10 +51,6 @@ We welcome contributions! If you'd like to contribute to Destini, please follow 
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and submit a pull request.
 
-## Issues and Feedback
-
-If you encounter any issues or have feedback, please [open an issue](https://github.com/your-username/destini/issues) on the repository. Your input is valuable, and we appreciate your help in making Destini even better.
-
 ## Acknowledgments
 
 Destini is built with love and Flutter. We want to express our gratitude to the Flutter and Dart communities for their continuous support and contributions.

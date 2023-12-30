@@ -18,7 +18,7 @@ Welcome to Destini, the thrilling adventure decision-making app where every choi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/destini.git
+   git clone git@github.com:kcchawla85/Destini_adventure_app.git
    ```
 
 2. **Navigate to Project Directory:**

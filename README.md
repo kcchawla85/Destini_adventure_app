@@ -14,14 +14,6 @@ Welcome to Destini, the thrilling adventure decision-making app where every choi
 - **Cross-Platform Compatibility:** Available for installation on both Apple and Android phones.
 - **Built with Flutter and Dart:** Leveraging the power of Flutter framework for a native-like experience.
 
-## Screenshots
-
-![Destini Screenshot 1](/assets/screenshots/screenshot1.png)
-*Caption: Make decisions that shape the destiny of the protagonist.*
-
-![Destini Screenshot 2](/assets/screenshots/screenshot2.png)
-*Caption: Experience different outcomes based on your choices.*
-
 ## Installation
 
 1. **Clone the Repository:**
